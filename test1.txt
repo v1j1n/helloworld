@@ -1,0 +1,10 @@
+ Volume in drive D is Storage
+ Volume Serial Number is 0A0A-B7B1
+
+ Directory of D:\GitRepository
+
+03/16/2018  01:09 PM    <DIR>          .
+03/16/2018  01:09 PM    <DIR>          ..
+03/16/2018  01:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  125,826,289,664 bytes free
